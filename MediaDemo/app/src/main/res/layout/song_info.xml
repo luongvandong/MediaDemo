@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="#303F9F"
+              android:padding="10dp"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <TextView android:layout_width="match_parent"
+              android:textSize="22dp"
+              android:id="@+id/tv_name"
+              android:text="Nơi này có anh"
+              android:textStyle="bold"
+              android:textColor="@android:color/white"
+              android:layout_height="wrap_content"/>
+
+    <TextView android:layout_width="match_parent"
+              android:textSize="18dp"
+              android:id="@+id/tv_artist"
+              android:text="Sơn Tùng M-TP"
+              android:layout_marginTop="10dp"
+              android:textColor="@android:color/white"
+              android:layout_height="wrap_content"/>
+
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView android:layout_width="0dp"
+                  android:id="@+id/tv_index"
+                  android:layout_weight="1"
+                  android:textSize="14dp"
+                  android:text="1/15"
+                  android:layout_marginTop="10dp"
+                  android:textColor="@android:color/white"
+                  android:layout_height="wrap_content"/>
+
+        <TextView android:layout_width="0dp"
+                  android:layout_weight="1"
+                  android:gravity="right"
+                  android:textSize="14dp"
+                  android:id="@+id/tv_time"
+                  android:text="00:00/04:36"
+                  android:layout_marginTop="10dp"
+                  android:textColor="@android:color/white"
+                  android:layout_height="wrap_content"/>
+
+    </TableRow>
+</LinearLayout>
