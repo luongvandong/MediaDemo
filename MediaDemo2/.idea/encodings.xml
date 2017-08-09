@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_next.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_notifi.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_pause.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_play.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_previous.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_stop.png" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
